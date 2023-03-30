@@ -1,5 +1,5 @@
 {
-  "proxy":"http://localhost:4000",
+  "proxy":"https://olx-backend-9zb5.onrender.com",
   "name": "olx-clone",
   "version": "0.1.0",
   "private": true,
